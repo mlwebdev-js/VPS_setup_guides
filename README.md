@@ -1,4 +1,4 @@
-# VPS_setup_guides
+# VPS setup Guides
 VPS_setup_guides
 
 
